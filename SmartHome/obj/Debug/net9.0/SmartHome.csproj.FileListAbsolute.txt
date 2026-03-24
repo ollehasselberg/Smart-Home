@@ -1,0 +1,14 @@
+C:\NBI\Olle\Projekt\SmartHome\SmartHome\bin\Debug\net9.0\SmartHome.exe
+C:\NBI\Olle\Projekt\SmartHome\SmartHome\bin\Debug\net9.0\SmartHome.deps.json
+C:\NBI\Olle\Projekt\SmartHome\SmartHome\bin\Debug\net9.0\SmartHome.runtimeconfig.json
+C:\NBI\Olle\Projekt\SmartHome\SmartHome\bin\Debug\net9.0\SmartHome.dll
+C:\NBI\Olle\Projekt\SmartHome\SmartHome\bin\Debug\net9.0\SmartHome.pdb
+C:\NBI\Olle\Projekt\SmartHome\SmartHome\obj\Debug\net9.0\SmartHome.GeneratedMSBuildEditorConfig.editorconfig
+C:\NBI\Olle\Projekt\SmartHome\SmartHome\obj\Debug\net9.0\SmartHome.AssemblyInfoInputs.cache
+C:\NBI\Olle\Projekt\SmartHome\SmartHome\obj\Debug\net9.0\SmartHome.AssemblyInfo.cs
+C:\NBI\Olle\Projekt\SmartHome\SmartHome\obj\Debug\net9.0\SmartHome.csproj.CoreCompileInputs.cache
+C:\NBI\Olle\Projekt\SmartHome\SmartHome\obj\Debug\net9.0\SmartHome.dll
+C:\NBI\Olle\Projekt\SmartHome\SmartHome\obj\Debug\net9.0\refint\SmartHome.dll
+C:\NBI\Olle\Projekt\SmartHome\SmartHome\obj\Debug\net9.0\SmartHome.pdb
+C:\NBI\Olle\Projekt\SmartHome\SmartHome\obj\Debug\net9.0\SmartHome.genruntimeconfig.cache
+C:\NBI\Olle\Projekt\SmartHome\SmartHome\obj\Debug\net9.0\ref\SmartHome.dll
