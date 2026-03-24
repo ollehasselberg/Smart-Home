@@ -32,4 +32,6 @@ Facade ger ett förenklat gränssnitt mot hela systemet.
 Singleton säkerställer att det finns en global instans som används överallt.  
 I projektet används 'SingletonLogger' för loggning av alla händelser, vilket garanterar att samma logger används av både observers och kommandon.  
 
+3. Demo: Öppna appen och 
+
 
